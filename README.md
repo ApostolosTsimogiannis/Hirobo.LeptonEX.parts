@@ -1,6 +1,8 @@
 # Hirobo.LeptonEX.parts
 Flybarless modification and replacement/improvement parts for the classic Hirobo Lepton EX.
 
+Many of these parts are also available on GrabCad at https://grabcad.com/a.t-79
+
 
 ![IMG_20251004_185303](https://github.com/user-attachments/assets/5f6d6705-81ac-4b51-b2ac-18826bc2d6cd)
 
