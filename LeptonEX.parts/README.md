@@ -1,4 +1,10 @@
 # Parts List and Descriptions
+<br>
+
+> To download files, click on the desired file and then locate the download button on the top right of the file viewer.
+> 
+
+<br>
 
 |File Name|Description| Manufacturing Method|Assembly Notes|
 |---|---|---|---|
