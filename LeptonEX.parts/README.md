@@ -13,3 +13,5 @@
 |frame plastic rear|This is the rear section of the main frame with the motor mount. This replaces the magnesium frame and allows the motor to be removed from the heli with easier access to the positioning bolts.|MJF or SLS 3D printing|Use a thread forming tool to tap threads. Assemble with normal bolts.|
 |servo bridge for KST X12-508 top |Replacement for the upper servo support, suitable for the mentioned servo model or other servos of the same dimension. |FDM (PLA, PETG etc) or MJF/SLS|Use screws for plastic to assemble. The stock Hirobo screws are suitable.|
 |servo bridge for KST X12-508 |Replacement for the lower servo support, suitable for the mentioned servo model or other servos of the same dimension. |FDM (PLA, PETG etc) or MJF/SLS|Use screws for plastic to assemble. The stock Hirobo screws are suitable.|
+|grip double washer|This is used in the grip to replace standard plastic blade washers.|MJF/SLS printing only|-|
+|rear skid riser|Used to tilt the helicopter forward on the ground to avoid tail blade strikes during landing or even takeoff.|FDM or MJF/SLS printing.|-|
